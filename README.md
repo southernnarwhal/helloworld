@@ -11,7 +11,9 @@ In this project, I: - Created a GitHub repository to understand how version cont
 - `index.html`: The main HTML file for the "Hello World" webpage. It contains the structure and content of the webpage. 
 - `README.md`: This file, providing details about the project and the learning process. 
 
-## View the Webpage You can view the webpage I created at `https://southernnarwhal.github.io/helloworld/`.
+## View the Webpage
+
+You can view the webpage I created at [https://southernnarwhal.github.io/helloworld/](https://southernnarwhal.github.io/helloworld/).
 
 ## Questions or Issues If you have any questions about my project or encounter any issues, please open an issue in this repository, and I'll look into it as soon as possible. 
 
